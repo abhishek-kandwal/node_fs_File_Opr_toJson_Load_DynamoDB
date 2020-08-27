@@ -1,0 +1,1247 @@
+[
+    {
+        "Country Name": "Burundi",
+        "Country Code": "BI",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Comoros",
+        "Country Code": "KM",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Djibouti",
+        "Country Code": "DJ",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Eritrea",
+        "Country Code": "ER",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Ethiopia",
+        "Country Code": "ET",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Kenya",
+        "Country Code": "KE",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Madagascar",
+        "Country Code": "MG",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Malawi",
+        "Country Code": "MW",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Mauritius",
+        "Country Code": "MU",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Mayotte",
+        "Country Code": "YT",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Mozambique",
+        "Country Code": "MZ",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Reunion",
+        "Country Code": "RE",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Rwanda",
+        "Country Code": "RW",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Seychelles",
+        "Country Code": "SC",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Somalia",
+        "Country Code": "SO",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "South Sudan",
+        "Country Code": "SS",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Tanzania, United Republic of",
+        "Country Code": "TZ",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Uganda",
+        "Country Code": "UG",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Zambia",
+        "Country Code": "ZM",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZW",
+        "Content Country Groups": "AFRICA_EA"
+    },
+    {
+        "Country Name": "Angola",
+        "Country Code": "AO",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Cameroon",
+        "Country Code": "CM",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Central African Republic",
+        "Country Code": "CF",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Chad",
+        "Country Code": "TD",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Congo",
+        "Country Code": "CG",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Congo (Democratic Republic of the)",
+        "Country Code": "CD",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "Country Code": "GQ",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Gabon",
+        "Country Code": "GA",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "Country Code": "ST",
+        "Content Country Groups": "AFRICA_MA"
+    },
+    {
+        "Country Name": "Botswana",
+        "Country Code": "BW",
+        "Content Country Groups": "AFRICA_SA"
+    },
+    {
+        "Country Name": "Lesotho",
+        "Country Code": "LS",
+        "Content Country Groups": "AFRICA_SA"
+    },
+    {
+        "Country Name": "Namibia",
+        "Country Code": "NA",
+        "Content Country Groups": "AFRICA_SA"
+    },
+    {
+        "Country Name": "South Africa",
+        "Country Code": "ZA",
+        "Content Country Groups": "AFRICA_SA"
+    },
+    {
+        "Country Name": "Swaziland",
+        "Country Code": "SZ",
+        "Content Country Groups": "AFRICA_SA"
+    },
+    {
+        "Country Name": "Benin",
+        "Country Code": "BJ",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Country Code": "BF",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Cabo Verde",
+        "Country Code": "CV",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Gambia",
+        "Country Code": "GM",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GH",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Guinea",
+        "Country Code": "GN",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GW",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Ivory Coast",
+        "Country Code": "CI",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Liberia",
+        "Country Code": "LR",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Mali",
+        "Country Code": "ML",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Mauritania",
+        "Country Code": "MR",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Niger",
+        "Country Code": "NE",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NG",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Saint Helena, Ascension and Tristan da Cunha",
+        "Country Code": "SH",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Senegal",
+        "Country Code": "SN",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "Country Code": "SL",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Togo",
+        "Country Code": "TG",
+        "Content Country Groups": "AFRICA_WA"
+    },
+    {
+        "Country Name": "Anguilla",
+        "Country Code": "AI",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Antarctica",
+        "Country Code": "AQ",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "Country Code": "AG",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Aruba",
+        "Country Code": "AW",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Bahamas",
+        "Country Code": "BS",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Barbados",
+        "Country Code": "BB",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Bonaire, Sint Eustatius and Saba",
+        "Country Code": "BQ",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Cayman Islands",
+        "Country Code": "KY",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Curacao",
+        "Country Code": "CW",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Dominica",
+        "Country Code": "DM",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Grenada",
+        "Country Code": "GD",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Guadeloupe",
+        "Country Code": "GP",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Guyana",
+        "Country Code": "GY",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Jamaica",
+        "Country Code": "JM",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Martinique",
+        "Country Code": "MQ",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Saint Barthelemy",
+        "Country Code": "BL",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Saint Kitts and Nevis",
+        "Country Code": "KN",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Saint Lucia",
+        "Country Code": "LC",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Saint Martin (French part)",
+        "Country Code": "MF",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Saint Vincent and the Grenadines",
+        "Country Code": "VC",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Sint Maarten (Dutch part)",
+        "Country Code": "SX",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Suriname",
+        "Country Code": "SR",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "Country Code": "TT",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Turks and Caicos Islands",
+        "Country Code": "TC",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "United States Minor Outlying Islands",
+        "Country Code": "UM",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Virgin Islands (British)",
+        "Country Code": "VG",
+        "Content Country Groups": "Americas_Caribbean"
+    },
+    {
+        "Country Name": "Argentina",
+        "Country Code": "AR",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Belize",
+        "Country Code": "BZ",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Bermuda",
+        "Country Code": "BM",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Bolivia (Plurinational State of)",
+        "Country Code": "BO",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Brazil",
+        "Country Code": "BR",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Chile",
+        "Country Code": "CL",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Colombia",
+        "Country Code": "CO",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Country Code": "CR",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Cuba",
+        "Country Code": "CU",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "Country Code": "DO",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Ecuador",
+        "Country Code": "EC",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "El Salvador",
+        "Country Code": "SV",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Falkland Islands (Malvinas)",
+        "Country Code": "FK",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "French Guiana",
+        "Country Code": "GF",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Greenland",
+        "Country Code": "GL",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Guatemala",
+        "Country Code": "GT",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Haiti",
+        "Country Code": "HT",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Honduras",
+        "Country Code": "HN",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Mexico",
+        "Country Code": "MX",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Montserrat",
+        "Country Code": "MS",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Country Code": "NI",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Panama",
+        "Country Code": "PA",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Paraguay",
+        "Country Code": "PY",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Peru",
+        "Country Code": "PE",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "Country Code": "PR",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Saint Pierre and Miquelon",
+        "Country Code": "PM",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Uruguay",
+        "Country Code": "UY",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Venezuela (Bolivarian Republic of)",
+        "Country Code": "VE",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Virgin Islands (U.S.)",
+        "Country Code": "VI",
+        "Content Country Groups": "Americas_LATAM"
+    },
+    {
+        "Country Name": "Israel",
+        "Country Code": "IL",
+        "Content Country Groups": "APAC_CENTRAL_WESTERN"
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "Country Code": "UZ",
+        "Content Country Groups": "APAC_CENTRAL_WESTERN"
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CN",
+        "Content Country Groups": "APAC_EAST_1"
+    },
+    {
+        "Country Name": "Mongolia",
+        "Country Code": "MN",
+        "Content Country Groups": "APAC_EAST_1"
+    },
+    {
+        "Country Name": "Hong Kong",
+        "Country Code": "HK",
+        "Content Country Groups": "APAC_EAST_2"
+    },
+    {
+        "Country Name": "Macao",
+        "Country Code": "MO",
+        "Content Country Groups": "APAC_EAST_2"
+    },
+    {
+        "Country Name": "Japan",
+        "Country Code": "JP",
+        "Content Country Groups": "APAC_EAST_3"
+    },
+    {
+        "Country Name": "Korea (Democratic People&apos;s Republic of)",
+        "Country Code": "KP",
+        "Content Country Groups": "APAC_EAST_3"
+    },
+    {
+        "Country Name": "Korea (Republic of)",
+        "Country Code": "KR",
+        "Content Country Groups": "APAC_EAST_3"
+    },
+    {
+        "Country Name": "Taiwan, Province of China",
+        "Country Code": "TW",
+        "Content Country Groups": "APAC_EAST_3"
+    },
+    {
+        "Country Name": "American Samoa",
+        "Country Code": "AS",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Christmas Island",
+        "Country Code": "CX",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Cocos (Keeling) Islands",
+        "Country Code": "CC",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Cook Islands",
+        "Country Code": "CK",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "French Polynesia",
+        "Country Code": "PF",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Guam",
+        "Country Code": "GU",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Heard Island and McDonald Islands",
+        "Country Code": "HM",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Kiribati",
+        "Country Code": "KI",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "Country Code": "MH",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Micronesia (Federated States of)",
+        "Country Code": "FM",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Nauru",
+        "Country Code": "NR",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "New Caledonia",
+        "Country Code": "NC",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Niue",
+        "Country Code": "NU",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Norfolk Island",
+        "Country Code": "NF",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Northern Mariana Islands",
+        "Country Code": "MP",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Palau",
+        "Country Code": "PW",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "Country Code": "PG",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Pitcairn",
+        "Country Code": "PN",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Samoa",
+        "Country Code": "WS",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "Country Code": "SB",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Tokelau",
+        "Country Code": "TK",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Tonga",
+        "Country Code": "TO",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Country Code": "TV",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Country Code": "VU",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Wallis and Futuna",
+        "Country Code": "WF",
+        "Content Country Groups": "APAC_ISLANDS"
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AU",
+        "Content Country Groups": "APAC_OCEANIA_MAIN"
+    },
+    {
+        "Country Name": "Fiji",
+        "Country Code": "FJ",
+        "Content Country Groups": "APAC_OCEANIA_MAIN"
+    },
+    {
+        "Country Name": "New Zealand",
+        "Country Code": "NZ",
+        "Content Country Groups": "APAC_OCEANIA_MAIN"
+    },
+    {
+        "Country Name": "Afghanistan",
+        "Country Code": "AF",
+        "Content Country Groups": "APAC_SAARC_1"
+    },
+    {
+        "Country Name": "Pakistan",
+        "Country Code": "PK",
+        "Content Country Groups": "APAC_SAARC_1"
+    },
+    {
+        "Country Name": "Bhutan",
+        "Country Code": "BT",
+        "Content Country Groups": "APAC_SAARC_2"
+    },
+    {
+        "Country Name": "Brunei Darussalam",
+        "Country Code": "BN",
+        "Content Country Groups": "APAC_SE_2"
+    },
+    {
+        "Country Name": "Cambodia",
+        "Country Code": "KH",
+        "Content Country Groups": "APAC_SE_2"
+    },
+    {
+        "Country Name": "Lao People&apos;s Democratic Republic",
+        "Country Code": "LA",
+        "Content Country Groups": "APAC_SE_2"
+    },
+    {
+        "Country Name": "Myanmar",
+        "Country Code": "MM",
+        "Content Country Groups": "APAC_SE_2"
+    },
+    {
+        "Country Name": "Timor-Leste",
+        "Country Code": "TL",
+        "Content Country Groups": "APAC_SE_2"
+    },
+    {
+        "Country Name": "Albania",
+        "Country Code": "AL",
+        "Content Country Groups": "EUROPE_BALKANS"
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BA",
+        "Content Country Groups": "EUROPE_BALKANS"
+    },
+    {
+        "Country Name": "Croatia",
+        "Country Code": "HR",
+        "Content Country Groups": "EUROPE_BALKANS"
+    },
+    {
+        "Country Name": "Macedonia (the former Yugoslav Republic of)",
+        "Country Code": "MK",
+        "Content Country Groups": "EUROPE_BALKANS"
+    },
+    {
+        "Country Name": "Montenegro",
+        "Country Code": "ME",
+        "Content Country Groups": "EUROPE_BALKANS"
+    },
+    {
+        "Country Name": "Serbia",
+        "Country Code": "RS",
+        "Content Country Groups": "EUROPE_BALKANS"
+    },
+    {
+        "Country Name": "Estonia",
+        "Country Code": "EE",
+        "Content Country Groups": "EUROPE_BALTICS"
+    },
+    {
+        "Country Name": "Latvia",
+        "Country Code": "LV",
+        "Content Country Groups": "EUROPE_BALTICS"
+    },
+    {
+        "Country Name": "Lithuania",
+        "Country Code": "LT",
+        "Content Country Groups": "EUROPE_BALTICS"
+    },
+    {
+        "Country Name": "Belgium",
+        "Country Code": "BE",
+        "Content Country Groups": "EUROPE_BENELUX"
+    },
+    {
+        "Country Name": "Luxembourg",
+        "Country Code": "LU",
+        "Content Country Groups": "EUROPE_BENELUX"
+    },
+    {
+        "Country Name": "Netherlands",
+        "Country Code": "NL",
+        "Content Country Groups": "EUROPE_BENELUX"
+    },
+    {
+        "Country Name": "Czech Republic",
+        "Country Code": "CZ",
+        "Content Country Groups": "EUROPE_CENTRAL"
+    },
+    {
+        "Country Name": "Liechtenstein",
+        "Country Code": "LI",
+        "Content Country Groups": "EUROPE_CENTRAL"
+    },
+    {
+        "Country Name": "Poland",
+        "Country Code": "PL",
+        "Content Country Groups": "EUROPE_CENTRAL"
+    },
+    {
+        "Country Name": "Slovakia",
+        "Country Code": "SK",
+        "Content Country Groups": "EUROPE_CENTRAL"
+    },
+    {
+        "Country Name": "Slovenia",
+        "Country Code": "SI",
+        "Content Country Groups": "EUROPE_CENTRAL"
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZ",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "Country Code": "KZ",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Kyrgyzstan",
+        "Country Code": "KG",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Tajikistan",
+        "Country Code": "TJ",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "Country Code": "TM",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Armenia",
+        "Country Code": "AM",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Georgia",
+        "Country Code": "GE",
+        "Content Country Groups": "Europe_CIS"
+    },
+    {
+        "Country Name": "Belarus",
+        "Country Code": "BY",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Country Code": "BG",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Greece",
+        "Country Code": "GR",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Hungary",
+        "Country Code": "HU",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Moldova (Republic of)",
+        "Country Code": "MD",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Romania",
+        "Country Code": "RO",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Ukraine",
+        "Country Code": "UA",
+        "Content Country Groups": "EUROPE_EASTERN"
+    },
+    {
+        "Country Name": "Austria",
+        "Country Code": "AT",
+        "Content Country Groups": "EUROPE_GSA"
+    },
+    {
+        "Country Name": "Germany",
+        "Country Code": "DE",
+        "Content Country Groups": "EUROPE_GSA"
+    },
+    {
+        "Country Name": "Switzerland",
+        "Country Code": "CH",
+        "Content Country Groups": "EUROPE_GSA"
+    },
+    {
+        "Country Name": "Aland Islands",
+        "Country Code": "AX",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Denmark",
+        "Country Code": "DK",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Faroe Islands",
+        "Country Code": "FO",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Finland",
+        "Country Code": "FI",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Iceland",
+        "Country Code": "IS",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Norway",
+        "Country Code": "NO",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Svalbard and Jan Mayen",
+        "Country Code": "SJ",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Sweden",
+        "Country Code": "SE",
+        "Content Country Groups": "EUROPE_NORDICS"
+    },
+    {
+        "Country Name": "Andorra",
+        "Country Code": "AD",
+        "Content Country Groups": "EUROPE_SOUTHERN"
+    },
+    {
+        "Country Name": "Holy See",
+        "Country Code": "VA",
+        "Content Country Groups": "EUROPE_SOUTHERN"
+    },
+    {
+        "Country Name": "Malta",
+        "Country Code": "MT",
+        "Content Country Groups": "EUROPE_SOUTHERN"
+    },
+    {
+        "Country Name": "Portugal",
+        "Country Code": "PT",
+        "Content Country Groups": "EUROPE_SOUTHERN"
+    },
+    {
+        "Country Name": "San Marino",
+        "Country Code": "SM",
+        "Content Country Groups": "EUROPE_SOUTHERN"
+    },
+    {
+        "Country Name": "Spain",
+        "Country Code": "ES",
+        "Content Country Groups": "EUROPE_SOUTHERN"
+    },
+    {
+        "Country Name": "Bouvet Island",
+        "Country Code": "BV",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "British Indian Ocean Territory",
+        "Country Code": "IO",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "French Southern Territories",
+        "Country Code": "TF",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "Gibraltar",
+        "Country Code": "GI",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "Guernsey",
+        "Country Code": "GG",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "Ireland",
+        "Country Code": "IE",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "Isle of Man",
+        "Country Code": "IM",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "Jersey",
+        "Country Code": "JE",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "South Georgia and the South Sandwich Islands",
+        "Country Code": "GS",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "United Kingdom of Great Britain and Northern Ireland",
+        "Country Code": "GB",
+        "Content Country Groups": "EUROPE_UK_CHANNEL_ISLANDS"
+    },
+    {
+        "Country Name": "France",
+        "Country Code": "FR",
+        "Content Country Groups": "EUROPE_WESTERN"
+    },
+    {
+        "Country Name": "Monaco",
+        "Country Code": "MC",
+        "Content Country Groups": "EUROPE_WESTERN"
+    },
+    {
+        "Country Name": "Algeria",
+        "Country Code": "DZ",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Egypt",
+        "Country Code": "EG",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Iran (Islamic Republic of)",
+        "Country Code": "IR",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Libya",
+        "Country Code": "LY",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Morocco",
+        "Country Code": "MA",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Sudan",
+        "Country Code": "SD",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Tunisia",
+        "Country Code": "TN",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Western Sahara",
+        "Country Code": "EH",
+        "Content Country Groups": "MENA_NA"
+    },
+    {
+        "Country Name": "Bahrain",
+        "Country Code": "BH",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Cyprus",
+        "Country Code": "CY",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Iraq",
+        "Country Code": "IQ",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Jordan",
+        "Country Code": "JO",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Kuwait",
+        "Country Code": "KW",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Lebanon",
+        "Country Code": "LB",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Oman",
+        "Country Code": "OM",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Palestine, State of",
+        "Country Code": "PS",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Qatar",
+        "Country Code": "QA",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "Country Code": "SA",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Syrian Arab Republic",
+        "Country Code": "SY",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Turkey",
+        "Country Code": "TR",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "Country Code": "AE",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Yemen",
+        "Country Code": "YE",
+        "Content Country Groups": "MENA_WA"
+    },
+    {
+        "Country Name": "Canada",
+        "Country Code": "CA",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "United States of America",
+        "Country Code": "US",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Country Code": "BD",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Indonesia",
+        "Country Code": "ID",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Malaysia",
+        "Country Code": "MY",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Maldives",
+        "Country Code": "MV",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Philippines",
+        "Country Code": "PH",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Singapore",
+        "Country Code": "SG",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Country Code": "LK",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Thailand",
+        "Country Code": "TH",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Vietnam",
+        "Country Code": "VN",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Italy",
+        "Country Code": "IT",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Russian Federation",
+        "Country Code": "RU",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "Nepal",
+        "Country Code": "NP",
+        "Content Country Groups": "Others"
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IN",
+        "Content Country Groups": "Others"
+    }
+]

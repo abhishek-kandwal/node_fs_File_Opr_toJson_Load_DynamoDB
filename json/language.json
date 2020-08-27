@@ -1,0 +1,94 @@
+[
+        {
+            "Language": "Assamese",
+            "code": "as"
+        },
+        {
+            "Language": "English",
+            "code": "en"
+        },
+        {
+            "Language": "Hindi",
+            "code": "hi"
+        },
+        {
+            "Language": "Marathi",
+            "code": "mr"
+        },
+        {
+            "Language": "Telugu",
+            "code": "te"
+        },
+        {
+            "Language": "Kannada",
+            "code": "km"
+        },
+        {
+            "Language": "Tamil",
+            "code": "ta"
+        },
+        {
+            "Language": "Malayalam",
+            "code": "ml"
+        },
+        {
+            "Language": "Bengali",
+            "code": "bn"
+        },
+        {
+            "Language": "Gujarati",
+            "code": "gu"
+        },
+        {
+            "Language": "Punjabi",
+            "code": "pa"
+        },
+        {
+            "Language": "Bhojpuri",
+            "code": "hr"
+        },
+        {
+            "Language": "Odia",
+            "code": "or"
+        },
+        {
+            "Language": "Thai",
+            "code": "th"
+        },
+        {
+            "Language": "Bahasa (Indonesia)",
+            "code": "id"
+        },
+        {
+            "Language": "Malay",
+            "code": "ms"
+        },
+        {
+            "Language": "German",
+            "code": "de"
+        },
+        {
+            "Language": "Russian",
+            "code": "ru"
+        },
+        {
+            "Language": "Arabic",
+            "code": "ar"
+        },
+        {
+            "Language": "Korean",
+            "code": "ko"
+        },
+        {
+            "Language": "Mandarin",
+            "code": "zh"
+        },
+        {
+            "Language": "French",
+            "code": "fr"
+        },
+        {
+            "Language": "Spanish",
+            "code": "es"
+        }
+    ]
